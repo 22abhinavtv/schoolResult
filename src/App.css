@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.App{
+  display: flex;
+  font-family: 'Fira Sans', sans-serif;
+}
+.sideBar{
+  width: 22rem;
+  height: 100vh;
+}
+.resultSection{
+  width: calc(100vw - 20rem);
+  height: 100vh;
+  background-color: aqua;
+}
