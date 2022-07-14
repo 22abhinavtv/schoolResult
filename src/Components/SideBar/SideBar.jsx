@@ -23,7 +23,7 @@ function SideBar() {
         <div className="btn-icon">
           <h3>Dashboard</h3>
         </div>
-        
+        button addee
       </div>
     </div>
   )
