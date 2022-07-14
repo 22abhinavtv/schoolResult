@@ -32,3 +32,30 @@ hr{
     height: 1px;
     border: 0; border-top: 1px solid #ccc;
 }
+.side-bar-buttons{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 2.12rem;
+    
+    height: 3rem;
+    width: 80.8%;
+    border-radius: 0.6rem;
+    position: relative;
+    left: 1.8rem;
+   
+}
+.side-bar-buttons:hover{
+    background-color: #cce0fa5c;
+    color: #189ad3;
+}
+.icon{
+    margin-left: 1rem;
+    color: #ccc;
+}
+
+.btn-name{
+    margin-left: 1.4rem;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
