@@ -32,3 +32,44 @@ hr{
     height: 1px;
     border: 0; border-top: 1px solid #ccc;
 }
+.side-bar-buttons{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 1.4rem;
+    height: 3rem;
+    width: 80.8%;
+    border-radius: 0.6rem;
+    margin-left: 1.8rem;
+    color: #ccc;
+    font-size: 1rem;
+}
+.side-bar-buttons:hover{
+    background-color: #cce0fa5c;
+    color: #189ad3;
+}
+.secondOnes{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 0.5rem;
+    height: 3rem;
+    width: 80.8%;
+    border-radius: 0.6rem;
+    margin-left: 1.8rem;
+    color: #ccc;
+}
+.secondOnes:hover{
+    background-color: #cce0fa5c;
+    color: #189ad3;
+}
+.btn-icom{
+    margin-left: 1rem;
+    color: azure;
+} 
+
+.btn-name{
+    margin-left: 1.4rem;
+    font-size: 0.9rem;
+    color: rgba(0, 0, 0, 0.58);
+}
