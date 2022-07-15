@@ -16,6 +16,9 @@ function SideBar() {
         </div>
       </div>
       <hr />
+      {
+        
+      }
       <div className="side-bar-buttons">
         <div className="btn-name">
           <Icon icon="humbleicons:dashboard" width="30" rotate={1} hFlip={true} vFlip={true} />
